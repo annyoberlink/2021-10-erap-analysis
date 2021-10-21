@@ -2,16 +2,20 @@
 
 This repository contains data, analytic code, and findings on applications for the New York State Emergency Rental Assistance Program (ERAP) between 06/2021 and 10/2021, sourced via the New York State Office of Temporary and Disability Assistance. Please read that article, which contains important context and details, before proceeding.
 
-Data
-This analysis uses six spreadsheets.
-The spreadsheets come from the following sources:
-Name of source:
-erap_data_full.xlsx: Raw data of the Emergency Rental Assistance Program (ERAP)
-Median_household_income.xlsx: Raw data of Median Household Income by Zip Code, sourced via Data CC New York
-race_data_1.xlsx: Raw data on race, sourced from the Census Reporter which uses the latest available census and American Community Survey (ACS) data.
-Language_data_1.xlsx: Raw data on language spoken at home, sourced from the Census Reporter which uses the latest available census and American Community Survey (ACS) data.
-population_total_acs2019_5yr_B01003_86000US10457.xlsx: Raw data on population sourced from the Census.
-Eviction_subset.xlsx: Raw data of evictions executed in 2019 by Zip Code, sourced from Open Data.
+<h1>Data</h1>
+This analysis uses six spreadsheets.<p>
+The spreadsheets come from the following sources:<P>
+  
+  <b>Name of source:</b>
+<ul>
+  <li>erap_data_full.xlsx: Raw data of the Emergency Rental Assistance Program (ERAP)</li>
+<li>Median_household_income.xlsx: Raw data of Median Household Income by Zip Code, sourced via Data CC New York</li>
+<li>race_data_1.xlsx: Raw data on race, sourced from the Census Reporter which uses the latest available census and American Community Survey (ACS) data.</li>
+<li>Language_data_1.xlsx: Raw data on language spoken at home, sourced from the Census Reporter which uses the latest available census and American Community Survey (ACS) data.</li>
+<li>population_total_acs2019_5yr_B01003_86000US10457.xlsx: Raw data on population sourced from the Census.</li>
+<li>Eviction_subset.xlsx: Raw data of evictions executed in 2019 by Zip Code, sourced from Open Data.</li>
+  </ul>
+  
 This data was merged into one spreadsheet:
 Erap_data_full
 Methodology
