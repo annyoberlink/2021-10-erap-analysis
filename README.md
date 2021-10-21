@@ -1,4 +1,4 @@
-Analysis of Emergency Rental Assistance Program data set — 06/2021 to 10/2021
+<h1>Analysis of Emergency Rental Assistance Program data set — 06/2021 to 10/2021</h1>
 
 This repository contains data, analytic code, and findings on applications for the New York State Emergency Rental Assistance Program (ERAP) between 06/2021 and 10/2021, sourced via the New York State Office of Temporary and Disability Assistance. Please read that article, which contains important context and details, before proceeding.
 
