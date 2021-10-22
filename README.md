@@ -41,7 +41,7 @@ The spreadsheets come from the following sources:<P>
   
   <h2>Outputs</h2>
   
-  The notebooks output this spreadsheet which contains TKTK: <code>output/tktktk.csv</code>.
+  The notebooks output this spreadsheet which contains TKTK: <code>erap_data_full.xlsx</code>.
  
   <h2>Running the analysis yourself</h2>
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
