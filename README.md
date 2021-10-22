@@ -9,11 +9,10 @@ The spreadsheets come from the following sources:<P>
   <b>Name of source:</b>
 <ul>
   <li><code>erap_data_full.xlsx</code>: Raw data of the Emergency Rental Assistance Program (ERAP)</li>
-<li><code>Median_household_income.xlsx</code>: Raw data of Median Household Income by Zip Code, sourced via Data CC New York</li>
 <li><code>race_data_1.xlsx</code>: Raw data on race, sourced from the Census Reporter which uses the latest available census and American Community Survey (ACS) data.</li>
 <li><code>Language_data_1.xlsx</code>: Raw data on language spoken at home, sourced from the Census Reporter which uses the latest available census and American Community Survey (ACS) data.</li>
 <li><code>population_total_acs2019_5yr_B01003_86000US10457.xlsx</code>: Raw data on population sourced from the Census.</li>
-<li><code>Eviction_subset.xlsx</code>: Raw data of evictions executed in 2019 by Zip Code, sourced from Open Data.</li>
+<li><code>Evictions_subset.csv</code>: Raw data of evictions executed in 2019 by Zip Code, sourced from Open Data.</li>
   </ul>
   
   This data was merged into one spreadsheet: <code>Erap_data_full</code>
