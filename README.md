@@ -20,7 +20,7 @@ The spreadsheets come from the following sources:<P>
   
   <h2>Methodology</h2>
   
-  The notebook <a href=""><code>tktktktk.ipynb</code></a> performs the following analyses:
+  The notebook <a href=""><code>10-16 evictions dataset.ipynb</code></a> performs the following analyses:
 
   <h5>Part 1: Cleaning</h5>
   <ul>
@@ -41,7 +41,7 @@ The spreadsheets come from the following sources:<P>
   
   <h2>Outputs</h2>
   
-  The notebooks output this spreadsheet which contains TKTK: <code>erap_data_full.xlsx</code>.
+  The notebooks output this spreadsheet which contains TKTK: <code>erap_data_final.xlsx</code>.
  
   <h2>Running the analysis yourself</h2>
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
