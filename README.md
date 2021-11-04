@@ -24,13 +24,14 @@ The dataset was initially cleaned using Google sheets, and income on median hous
 
 #### Part 2: Merging
 
-- Data on race and language spoken at home by ability to speak english were merged into the dataset using pandas. The notebook then output a file called `erap_full.csv`. The output dataset `erap_full.csv` was merged into another spreadsheet `erap_data_final.xlsx` file, where another reporter merged it income and population data using vlookup formulas.
-- Additionally, data on evictions executed in 2019 was filtered and sorted with a pivot table in excel and was merged with the dataset in Google Sheets using v-lookup.
+- Data on race and language spoken at home by ability to speak english were merged into the dataset using pandas. The notebook then output a file called `erap_full.csv`which was imported into another spreadsheet `erap_data_final.xlsx` file. There, in a sheet called `erap_data_full`, this data was further merged with income, population and eviction data using vlookup formulas in the columns `Population size`, `Household Income` and `2019 executed evictions`.
 
 #### Part 3: Analysis
 
--  The data in the merged table was then analyzed using sort commands, average/median/max commands, and pivot tables in Google Sheets. This helped determine zip codes with some of the highest numbers and rates of rental assistance applications. 
-- Map of ERAP assistance applications by zip code was created via Datawrapper.
+-  The data in the merged table was then analyzed using in the following ways:"
+  - using the population count and number of rental arrears applications, we created  new columms called `Arrears applications per 100K people` and `Prospective Rent Applications per 100K people`.
+  - we then sorted the sheet by highest rate of `Arrears applications per 100K people`.
+- We then mapped the ERAP assistance applications by zip code was created via Datawrapper.
 
 
 #### Outputs
